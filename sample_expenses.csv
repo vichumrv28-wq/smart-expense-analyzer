@@ -1,0 +1,31 @@
+Date,Description,Category,Amount,Payment_Method
+2026-01-02,Coffee,Food,180,UPI
+2026-01-03,Bus pass,Transport,650,UPI
+2026-01-04,Lunch,Food,240,UPI
+2026-01-05,Mobile recharge,Bills,399,UPI
+2026-01-06,Groceries,Food,1250,Card
+2026-01-07,Notebook,Education,160,Cash
+2026-01-08,Auto ride,Transport,220,UPI
+2026-01-09,Movie ticket,Entertainment,350,Card
+2026-01-10,Dinner,Food,480,UPI
+2026-01-11,Electricity bill,Bills,1450,UPI
+2026-01-12,Snacks,Food,120,Cash
+2026-01-13,Cab ride,Transport,520,UPI
+2026-01-14,Online course,Education,2499,Card
+2026-01-15,Groceries,Food,980,UPI
+2026-01-16,Headphones,Shopping,3999,Card
+2026-01-17,Lunch,Food,210,UPI
+2026-01-18,Pharmacy,Health,540,UPI
+2026-01-19,Weekend trip,Travel,8500,Card
+2026-01-20,Tea,Food,60,Cash
+2026-01-21,Internet bill,Bills,799,UPI
+2026-01-22,Book,Education,450,Card
+2026-01-23,Fuel,Transport,700,UPI
+2026-01-24,Dinner,Food,560,UPI
+2026-01-25,Jacket,Shopping,2890,Card
+2026-01-26,Medical check,Health,1200,UPI
+2026-01-27,Groceries,Food,1100,UPI
+2026-01-28,Concert ticket,Entertainment,3200,Card
+2026-01-29,Taxi,Transport,350,UPI
+2026-01-30,Rent contribution,Housing,6000,UPI
+2026-01-31,Snacks,Food,95,Cash
